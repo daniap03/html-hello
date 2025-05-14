@@ -28,7 +28,7 @@ body{
     margin-bottom: 10px;
 }
 button:active{
-    color: red;
+    background-color: red;
 }
 ul{
     list-style-type: none;
